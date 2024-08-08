@@ -6,3 +6,5 @@ Reproductor de música funcional con el uso de eventos de JavaScript, puede repr
 - **HTML**
 - **CSS**
 - **JavaScript**
+
+![Imagen2](https://github.com/user-attachments/assets/c76ad265-d1a3-4aa7-b62c-8433d9bc0765)
